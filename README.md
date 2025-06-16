@@ -23,4 +23,4 @@ I'll be adding web-based projects here later — stay tuned.
 C#, .NET, WinForms, WPF, Java, REST APIs, Visual Studio, Git, Android
 
 ## 📇 Contact
-[LinkedIn](www.linkedin.com/in/valeriiapeskova)
+[LinkedIn](https://www.linkedin.com/in/valeriiapeskova/)
