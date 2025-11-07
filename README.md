@@ -1,10 +1,10 @@
 # Hi, I'm Valeriia 👋
 
-I'm currently pursuing a Master's degree in Software Engineering. Alongside my studies, I'm actively developing projects and learning new technologies on my own.
+I'm currently pursuing a Master's degree in Software Engineering, where I deepen my programming skills and explore new technologies through personal projects.
 
-I have hands-on experience with C# and .NET, and I'm now also working on projects using Java.
+I have hands-on experience in Java, including backend logic, database integration, and API development, and I also have experience with C#/.NET projects.
 
-This GitHub contains a mix of small and larger learning projects.  
+This GitHub contains a mix of small and larger learning projects.
 For key projects, I’ve recorded demo videos to show how they work.
 
 ## 🎥 Project Demos (Video)
@@ -12,12 +12,12 @@ You can watch full demonstrations here:
 👉 [Google Drive Portfolio](https://drive.google.com/drive/folders/1IEKkdIraZoyqt8MJ7-QDQQXx8oyL8Ues)
 
 ### Projects include:
-- 🌐 WPF desktop apps
-- 📱 Android MAUI apps
+- 🌐 Java console and backend applications
+- 📱 C# WPF desktop apps and Android MAUI apps
 - 🤖 Telegram bots
 
 ## 🔧 Technologies
-C#, ASP.NET, MAUI, WPF, Java, REST APIs, Visual Studio, Rider, Git
+Java, C#, REST APIs, SQL, HTML/CSS, JavaScript, Visual Studio, IntelliJ IDEA, Git, GitHub 
 
 ## 📇 Contact
 👀 [LinkedIn](https://www.linkedin.com/in/valeriiapeskova/)
