@@ -1,6 +1,6 @@
 # Hi, I'm Valeriia 👋
 
-I'm currently pursuing a Master's degree in Software Engineering, where I deepen my programming skills and explore new technologies through personal projects.
+I am currently taking a course at MEPhI, where I study development pipelines, system administration, algorithms, and strengthen my overall technical knowledge through hands-on projects.
 
 I have hands-on experience in Java, including backend logic, database integration, and API development, and I also have experience with C#/.NET projects.
 
@@ -17,7 +17,7 @@ You can watch full demonstrations here:
 - 🤖 Telegram bots
 
 ## 🔧 Technologies
-Java, C#, REST APIs, SQL, HTML/CSS, JavaScript, Visual Studio, IntelliJ IDEA, Git, GitHub 
+Java, C#, Python, REST APIs, SQL, HTML/CSS, JavaScript, Visual Studio, IntelliJ IDEA, Git, GitHub, Linux
 
 ## 📇 Contact
 👀 [LinkedIn](https://www.linkedin.com/in/valeriiapeskova/)
