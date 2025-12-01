@@ -1,8 +1,7 @@
 # Hi, I'm Valeriia 👋
 
-I am currently taking a course at MEPhI, where I study development pipelines, system administration, algorithms, and strengthen my overall technical knowledge through hands-on projects.
-
-I have hands-on experience in Java, including backend logic, database integration, and API development, and I also have experience with C#/.NET projects.
+I have hands-on experience in Java, including backend logic, database integration, and API development, and I also have experience with C#/.NET projects. 
+I am currently deepening my knowledge in development pipelines, system administration, algorithms, and strengthening my overall technical skills through hands-on projects.
 
 This GitHub contains a mix of small and larger learning projects.
 For key projects, I’ve recorded demo videos to show how they work.
